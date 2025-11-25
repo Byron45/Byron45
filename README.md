@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Byron Flores
 
-<!--
-**Byron45/Byron45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tecnologías con las que trabajo:
+- Kotlin / Android Studio / Jetpack Compose  
+- Java / Spring Boot  
+- Python / Machine Learning  
+- Git / GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Byron45's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byron45&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byron45&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Trofeos (GitHub Profile Trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Byron45&theme=tokyonight)
+
+---
+
+## 📈 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Byron45&theme=tokyonight&hide_border=false)
+
+--- 
