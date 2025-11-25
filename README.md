@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_URL_AQUI" alt="Banner" width="100%">
+  <img src="https://github.com/Byron45/Byron45/blob/main/ChatGPT%20Image%2025%20nov%202025%2C%2012_01_35%20a.m..png" alt="Banner" width="100%">
 </p>
 
 # 👋 ¡Hola! Soy **Byron Flores**
