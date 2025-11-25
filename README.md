@@ -1,21 +1,21 @@
-<!-- Banner opcional (puedes cambiarlo si quieres uno propio) -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Byron45/Byron45/main/banner-github.png" alt="Banner" width="100%">
+  <img src="BANNER_URL_AQUI" alt="Banner" width="100%">
 </p>
 
-# 👋 ¡Hola! Soy **Byron Flores**  
+# 👋 ¡Hola! Soy **Byron Flores**
 
 ### 👨‍💻 Desarrollador móvil Android  
 ### 📱 Desarrollador móvil Android con Jetpack Compose  
-### 💻 Desarrollador de software  
-### 🧑‍🎓 Ingeniero de software en formación  
+### 💻 Desarrollador de software   
 
-Me apasiona crear soluciones móviles y backend eficientes, escalables y con buenas prácticas.  
-Siempre aprendiendo nuevas tecnologías y mejorando mis proyectos día a día.
+Apasionado por desarrollar soluciones móviles y backend escalables, aplicando buenas prácticas, arquitectura limpia y herramientas modernas.  
+Siempre aprendiendo y construyendo algo nuevo.
 
 ---
 
 ## 🚀 **Tecnologías y herramientas**
+
 ### 🧑‍💻 Lenguajes y frameworks
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
@@ -42,15 +42,15 @@ Siempre aprendiendo nuevas tecnologías y mejorando mis proyectos día a día.
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Byron45&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byron45&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-by-himanshu.vercel.app/api?username=Byron45&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-by-himanshu.vercel.app/api/top-langs/?username=Byron45&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ## 🔥 **Streaks**
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Byron45&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=Byron45&theme=tokyonight" />
 </p>
 
 ---
@@ -62,10 +62,10 @@ Siempre aprendiendo nuevas tecnologías y mejorando mis proyectos día a día.
 
 ---
 
-## 🌐 **Contacto** 
+## 🌐 **Contacto**
 🔗 **LinkedIn:** [Byron Flores](https://www.linkedin.com/in/byron-flores-0218b3317)  
 🐙 **GitHub:** [Byron45](https://github.com/Byron45)
 
 ---
 
-### ✨ *Gracias por visitar mi perfil. ¡Siempre construyendo algo nuevo!*  
+### ✨ *“Mobile · Backend · DevOps”*
